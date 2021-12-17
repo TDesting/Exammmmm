@@ -14,4 +14,4 @@ This repository contains our solution to the ordinary exam 2021 in Python for th
 
 Finally, 'SSRN-id1213325.pdf' contains the article written by Attilio Meucci titled 'Fully Flexible Views: Theory and Practice'. 
 
-\\ Frederik & Thomas
+Frederik & Thomas
